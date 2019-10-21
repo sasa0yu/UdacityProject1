@@ -1,6 +1,14 @@
 # UdacityProject1
 For Udacity Project1
 
+## Motivation
+Most organizations strive for employee satisfaction, but not all attain this goal. That's why it's important for human resources professionals to know more about the factors that can increase employee satisfaction, and how it fits into a company's overall success and personal achievements.
+
+This post will focus on job satisfaction and career satisfaction in information technology field. Specifically, I do an analysis of the Stack Overflow Data - 2017 Survey results and answer several questions related to job and career satisfaction.
+
+## Summary of the project results
+This post focused on job satisfaction and career satisfaction in information technology field. As a future work, I would like to dive more into the data and analyze the latent relationship between job/career satisfaction and other elements. Also, multi-year data sets will be the target in the next post.
+
 ## Files
 **image**: contains images of analysis results.
 

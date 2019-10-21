@@ -3,9 +3,13 @@ For Udacity Project1
 
 ## Files
 image: contains images of analysis results.
+
 so-survey-2017: source data downloaded from https://www.kaggle.com/stackoverflow/so-survey-2017.
+
 survey_results_public.csv: survey results from https://www.kaggle.com/stackoverflow/so-survey-2017.
+
 survey_results_schema.csv: descriptions of each column for survey_results_public.csv.
+
 udacity_project1.ipynb: main .ipynb file.
 
 ## Contributing
